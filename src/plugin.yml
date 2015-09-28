@@ -1,0 +1,5 @@
+name: BatWars
+version: 1.0
+author: V3lop5
+main: de.tribemc.batwars.main.Main
+depend: [TribeEssentials]
